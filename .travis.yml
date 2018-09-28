@@ -4,9 +4,9 @@ jdk: oraclejdk8
 #before_install: ./gradlew wrapper
 
 install: true
-script:
-- ./gradlew assemble
-- ./gradlew check
+#script:
+#- ./gradlew assemble
+#- ./gradlew check
 
 
 
